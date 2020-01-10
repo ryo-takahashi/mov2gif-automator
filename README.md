@@ -4,6 +4,8 @@
 
 ```
 brew install ffmpeg
+
+sudo sh -c 'echo "$(brew --prefix)/bin" > /etc/paths.d/homebrew'
 ```
 
 # usage
