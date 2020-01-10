@@ -13,4 +13,4 @@ brew install ffmpeg
 
 # example
 
-![usage.gif]("./assets/usage.gif")
+![usage.gif](./assets/usage.gif)
